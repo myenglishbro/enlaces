@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myenglishbro/enlaces.git/static/css/main.073c9b0a.css",
+    "main.js": "/myenglishbro/enlaces.git/static/js/main.8924eb12.js",
+    "static/js/787.addd7eaf.chunk.js": "/myenglishbro/enlaces.git/static/js/787.addd7eaf.chunk.js",
+    "static/media/logo.svg": "/myenglishbro/enlaces.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myenglishbro/enlaces.git/index.html",
+    "main.073c9b0a.css.map": "/myenglishbro/enlaces.git/static/css/main.073c9b0a.css.map",
+    "main.8924eb12.js.map": "/myenglishbro/enlaces.git/static/js/main.8924eb12.js.map",
+    "787.addd7eaf.chunk.js.map": "/myenglishbro/enlaces.git/static/js/787.addd7eaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8924eb12.js"
+  ]
+}
